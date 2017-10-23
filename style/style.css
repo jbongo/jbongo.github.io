@@ -1,0 +1,59 @@
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.red{
+	border: 2px solid red;
+	height: 70px;
+}
+#entete{
+	background-color: #66757F;
+	background: url('../images/bac1.jpg');
+	
+	margin-bottom: 20px;
+	font-size: 24px;
+	color: #E1E8ED;
+}
+
+
+#corps{
+	background-color:#FFFFFF;
+	margin-bottom: 20px;
+	margin: auto;
+	 width:90%;
+}
+
+#footer{
+	background-color: #66757F;
+
+
+}
+
+#competence{
+	margin-bottom: 50px;
+}
+
+#experience{
+	margin-bottom: 50px;
+	background-color: #DFE3EE;
+}
+
+#centre{
+	margin-bottom: 50px;
+}
+
+#formation{
+	margin-bottom: 50px;
+}
+
+#certification{
+	margin-bottom: 50px;
+}
+
+.text1{
+	font-size: 25px;
+}
+.text2{
+	font-size: 18px;
+}
