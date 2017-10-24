@@ -1,6 +1,6 @@
 body{
 	font-family: 'Roboto Condensed', sans-serif;
-
+	padding-top: 70px;
 }
 
 .red{
@@ -23,7 +23,9 @@ body{
 }
 
 #footer{
-	background-color: #66757F;
+	background-color: #838487;
+	color:white;
+	margin-bottom: 273px:
 
 
 }
@@ -44,10 +46,12 @@ body{
 #formation{
 	margin-top: 50px;
 	margin-bottom: 50px;
+
 }
 
 #certification{
 	margin-bottom: 50px;
+	background-color: #DFCFBE;
 }
 
 .text1{
